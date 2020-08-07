@@ -1,0 +1,25 @@
+{
+    "name": "arispati/crypto-aes",
+    "description": "AES crypto library which can be used in php and javascript",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aris",
+            "email": "aris@dxtr.asia"
+        }
+    ],
+    "keywords": [
+        "crypto",
+        "AES"
+    ],
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arispati\\CryptoAES\\": "src"
+        }
+    },
+    "minimum-stability": "stable"
+}
