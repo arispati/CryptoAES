@@ -6,9 +6,11 @@
     "authors": [
         {
             "name": "Aris",
-            "email": "aris@dxtr.asia"
+            "email": "aris@dxtr.asia",
+            "homepage": "https://github.com/arispati"
         }
     ],
+    "homepage": "https://github.com/arispati/CryptoAES",
     "keywords": [
         "crypto",
         "AES"
@@ -20,6 +22,9 @@
         "psr-4": {
             "Arispati\\": "src"
         }
+    },
+    "config": {
+        "sort-packages": true
     },
     "minimum-stability": "stable"
 }
