@@ -1,5 +1,7 @@
 # CryptoAES
-AES crypto library which can be used in php and javascript
+AES crypto library which can be used in php and javascript (PHP Version).
+
+If you want to use this library in javascript use the [CryptoAESJS](https://github.com/arispati/CryptoAESJS).
 
 ## How to Install
 - Install with composer
