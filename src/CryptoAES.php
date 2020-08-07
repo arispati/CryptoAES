@@ -1,6 +1,6 @@
 <?php
 
-namespace Arispati\CryptoAES;
+namespace Arispati;
 
 /**
  * Crypto AES

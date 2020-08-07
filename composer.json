@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Arispati\\CryptoAES\\": "src"
+            "Arispati\\": "src"
         }
     },
     "minimum-stability": "stable"
