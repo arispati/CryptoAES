@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Arispati\\": "src"
+            "Arispati\\CryptoAES\\": "src"
         }
     },
     "config": {

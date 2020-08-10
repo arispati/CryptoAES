@@ -11,7 +11,7 @@ composer require arispati/crypto-aes
 
 ## How to Use
 ```php
-use Arispati\CryptoAES;
+use Arispati\CryptoAES\CryptoAES;
 
 // Set the secret key
 $secretKey = 's3cr3tK3y'; // default secret key
